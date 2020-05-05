@@ -1,0 +1,15 @@
+{
+  "name": "inkujs",
+  "version": "1.0.0",
+  "description": "Sebuah alat untuk menulis dengan warna.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/zyddv/InkuJS"
+  },
+  "author": "zyddv",
+  "license": "MIT"
+}
