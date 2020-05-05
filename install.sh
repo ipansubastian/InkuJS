@@ -1,6 +1,7 @@
 #!/bin/bash
 
 if [ ! -d node_modules ]; then
+  echo 'ok'
   mkdir node_modules;
 fi;
 
